@@ -11,15 +11,10 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
 # A
 
-* * *
-
 # B
-
-* * *
 
 # C 
 
-* * *
 
 # O
 - **[Overunder](https://github.com/estrattonbailey/overunder)** - waypoints
@@ -27,8 +22,6 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   A small waypoint library that emits events when you scroll to a specific element(s), or resize to a specified width. Use overunder for sticky elements, lazy loading, element queries, etc.
 
   ###### *Tagged: vanilla js, waypoints, scroll, resize* – Author: @estrattonbailey
-  
-* * *
 
 # S
 - **[Sharable](https://github.com/estrattonbailey/sharable)** - easy and configurable social share popups
