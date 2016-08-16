@@ -7,9 +7,33 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
 * * *
 
+# Index of Resources
+
+# A
+
+* * *
+
+# B
+
+* * *
+
+# C 
+
+* * *
+
+# O
+- **[Overunder](https://github.com/estrattonbailey/overunder)** - waypoints
+
+  A small waypoint library that emits events when you scroll to a specific element(s), or resize to a specified width. Use overunder for sticky elements, lazy loading, element queries, etc.
+
+  ###### *Tagged: vanilla js, waypoints, scroll, resize* – Author: @estrattonbailey
+  
+* * *
+
 # S
-- ### Social
-  - **[sharable](https://github.com/estrattonbailey/sharable)** - easily configurable social share popups
+- **[Sharable](https://github.com/estrattonbailey/sharable)** - easy and configurable social share popups
+
   Pulls data from `<head>` by default, can be overriden by data on the social link itself. Opens share dialog in small popup window.
-  *Tagged: vanilla js, social, sharing* 
+
+  ###### *Tagged: vanilla js, social, sharing* – Author: @estrattonbailey
 
