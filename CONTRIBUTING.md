@@ -19,7 +19,7 @@ When adding to this repository's README file, please format resources in the fol
 The example above has the following elements:
 - A linked title. The link points to the Gist or repository URL.
 - A subtitle. Summarize the core functionality of the resource in a few words.
-- A Description. Keep succinct (1-3 sentences).
+- A Description. Keep succinct (1-2 sentences).
 - Tags. Consider the keywords you may search for when looking for this research. Include the platform (if applicable) and language.
 
 ### Generic tags to use
