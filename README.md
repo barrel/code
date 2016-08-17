@@ -17,7 +17,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   Specify image URLs and breakpoints, just like srcset. Blazed will find the size that fits the current viewport and smoothly load the image.
 
-  ###### *Tagged: lazy loading, background images, vanilla* – Author: @estrattonbailey
+  ###### *Tagged: lazy loading, background images, vanilla js* – Author: @estrattonbailey
 
 # C 
 
@@ -25,7 +25,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   A basic counter made using getters/setters. TODO: needs markup and styles.
 
-  ###### *Tagged: counter, accessors, vanilla* – Author: @estrattonbailey
+  ###### *Tagged: counter, accessors, vanilla js* – Author: @estrattonbailey
 
 # F
 
@@ -33,7 +33,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   Creates a new folder with a base setup of SCSS, Babel, and a index.html file. Good for testing out an idea, etc.
 
-  ###### *Tagged: sandbox, generator, vanilla* – Author: @estrattonbailey
+  ###### *Tagged: sandbox, generator, vanilla js* – Author: @estrattonbailey
   
 # L
 
@@ -41,7 +41,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   A experiment in accessors – getter and setter functions – with support for callbacks and nested observable objects. Can be used to create reactive data objects (state) for more complex UI functionality. Kinda production ready, but you should probably use Redux.
 
-  ###### *Tagged: accessors, native, reactive, state, vanilla* – Author: @estrattonbailey
+  ###### *Tagged: accessors, native, reactive, state, vanilla js* – Author: @estrattonbailey
   
 # N
 
@@ -49,7 +49,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   A tiny DOM selection and traversal library. Needs testing, otherwise ready to use. Better to use as a reference.
 
-  ###### *Tagged: select, traversal, DOM, closest, find, vanilla* – Author: @estrattonbailey
+  ###### *Tagged: select, traversal, DOM, closest, find, vanilla js* – Author: @estrattonbailey
 
 # O
 
@@ -71,7 +71,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   A starting point for a promo bar library. TODO: needs corresponding markup and styles.
 
-  ###### *Tagged: promo bar, vanilla* – Author: @estrattonbailey
+  ###### *Tagged: promo bar, vanilla js* – Author: @estrattonbailey
 
 # S
 
