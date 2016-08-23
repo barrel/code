@@ -69,7 +69,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   
 # U
 
-- **[up-down](https://gist.github.com/estrattonbailey/9d5fe7a61229754409e4d3110a56938e)** - ES6 quantity selector
+- **[up-down](https://github.com/estrattonbailey/up-down)** - ES6 quantity selector
 
   A quantity selector in ES6.
 
