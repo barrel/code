@@ -19,13 +19,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   ###### *Tagged: lazy loading, background images, vanilla js* – Author: @estrattonbailey
 
-# C 
-
-- **[Counter](https://gist.github.com/estrattonbailey/9d5fe7a61229754409e4d3110a56938e)** - counter using accessors
-
-  A basic counter made using getters/setters. TODO: needs markup and styles.
-
-  ###### *Tagged: counter, accessors, vanilla js* – Author: @estrattonbailey
+# C
 
 # F
 
@@ -72,6 +66,14 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   A starting point for a promo bar library. TODO: needs corresponding markup and styles.
 
   ###### *Tagged: promo bar, vanilla js* – Author: @estrattonbailey
+  
+# U
+
+- **[up-down](https://gist.github.com/estrattonbailey/9d5fe7a61229754409e4d3110a56938e)** - ES6 quantity selector
+
+  A quantity selector in ES6.
+
+  ###### *Tagged: counter, accessors, javascript, ES6* – Author: @estrattonbailey
 
 # S
 
