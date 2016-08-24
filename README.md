@@ -94,3 +94,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   Uses tags on individual products to generate an array of filters for the collection page. See gist comments for explanation.
 
   ###### *Tagged: Shopify, liquid, filtering, functional* - Author @estrattonbailey
+
+-  **[Shopify Shipper](https://github.com/maxrolon/shopify-shipper/)** - Shopify shipping calculator
+  
+  Generates form HTML, sends and receives shipping rates for Shopify themes
+  
+  ###### *Tagged: Shopify, cart, vanilla js, shipping, forms* - Author @maxrolon
+
+  
+  
