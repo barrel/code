@@ -26,7 +26,7 @@ jQuery is a beautiful piece of code and is incredibly useful, especially for pro
   - on<event> (overrides previous handlers)
   - delegation
 - Arrays 
-  - `for`, `.forEach()`, `while`
+  - `for`, `.forEach()`, `while` ([jsbin](http://jsbin.com/nesizu/edit?js,console))
   - `.map()`, `.filter()` ([jsbin](http://jsbin.com/jaxixiq/edit?js,console))
   - every, some (?)
 - Math 
