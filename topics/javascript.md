@@ -27,7 +27,7 @@ jQuery is a beautiful piece of code and is incredibly useful, especially for pro
   - delegation
 - Arrays 
   - `for`, `.forEach()`, `while`
-  - `.map()`, `.filter()` 
+  - `.map()`, `.filter()` ([jsbin](http://jsbin.com/jaxixiq/edit?js,console))
   - every, some (?)
 - Math 
   - `.min` `.max`
@@ -37,7 +37,7 @@ jQuery is a beautiful piece of code and is incredibly useful, especially for pro
 
 ## ES2015 (ECMAScript 2015, or ES6)
 - Block scope
-  - `let `const` vs. `var` 
+  - `let` `const` vs. `var` 
 - Arrow functions
   - When to use curly brackets and what it means if you don't
   - Scoping / context / this
