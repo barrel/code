@@ -28,7 +28,7 @@ jQuery is a beautiful piece of code and is incredibly useful, especially for pro
 - Arrays 
   - `for`, `.forEach()` ([jsbin](http://jsbin.com/nesizu/edit?js,console))
   - `.map()`, `.filter()` ([jsbin](http://jsbin.com/jaxixiq/edit?js,console))
-- Math ([jsbin])(https://jsbin.com/vidixob/edit?html,js,console,output)
+- Math ([jsbin](https://jsbin.com/vidixob/edit?html,js,console,output))
   - `.min` `.max`
 - Height/width/scrollY/offsets ([jsbin](http://jsbin.com/kiyomo/edit?js,console))
   - heights, widths
