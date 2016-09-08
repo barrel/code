@@ -30,7 +30,7 @@ jQuery is a beautiful piece of code and is incredibly useful, especially for pro
   - `.map()`, `.filter()` ([jsbin](http://jsbin.com/jaxixiq/edit?js,console))
 - Math 
   - `.min` `.max`
-- Pains 
+- Height/width/scrollY/offsets ([jsbin](http://jsbin.com/kiyomo/edit?js,console))
   - heights, widths
   - offset top 
 
