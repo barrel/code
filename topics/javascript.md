@@ -21,14 +21,13 @@ jQuery is a beautiful piece of code and is incredibly useful, especially for pro
   - style 
     - individual props vs `cssText` or attribute
     - most values need units
-- Events 
+- Events ([jsbin](http://jsbin.com/fomuceh/edit?js,console,output))
   - `.addEventListener()` `.removeEventListener()`
   - on<event> (overrides previous handlers)
-  - delegation
+  - delegation 
 - Arrays 
-  - `for`, `.forEach()`, `while` ([jsbin](http://jsbin.com/nesizu/edit?js,console))
+  - `for`, `.forEach()` ([jsbin](http://jsbin.com/nesizu/edit?js,console))
   - `.map()`, `.filter()` ([jsbin](http://jsbin.com/jaxixiq/edit?js,console))
-  - every, some (?)
 - Math 
   - `.min` `.max`
 - Pains 
