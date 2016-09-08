@@ -28,7 +28,7 @@ jQuery is a beautiful piece of code and is incredibly useful, especially for pro
 - Arrays 
   - `for`, `.forEach()` ([jsbin](http://jsbin.com/nesizu/edit?js,console))
   - `.map()`, `.filter()` ([jsbin](http://jsbin.com/jaxixiq/edit?js,console))
-- Math 
+- Math ([jsbin])(https://jsbin.com/vidixob/edit?html,js,console,output)
   - `.min` `.max`
 - Height/width/scrollY/offsets ([jsbin](http://jsbin.com/kiyomo/edit?js,console))
   - heights, widths
@@ -37,7 +37,7 @@ jQuery is a beautiful piece of code and is incredibly useful, especially for pro
 ## ES2015 (ECMAScript 2015, or ES6)
 - Block scope
   - `let` `const` vs. `var` 
-- Arrow functions
+- Arrow functions ([jsbin](https://jsbin.com/gihokaviki/edit?html,js,console,output))
   - When to use curly brackets and what it means if you don't
   - Scoping / context / this
   - Leave binding in the dust..
