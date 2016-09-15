@@ -21,6 +21,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
 # C
 
+- **[conform.js](https://github.com/estrattonbailey/conform.js)** - AJAX form submissions
+
+  A simple, unopinionated form submission utility library. Configure custom validation for individual fields and easily handle success and error states. 2.39kb gzipped.
+
+  ###### *Tagged: ajax, form, submit, validation* – Author: @estrattonbailey
+
 # F
 
 - **[Frame](https://github.com/estrattonbailey/frame)** - sandbox generator
@@ -36,6 +42,14 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   A experiment in accessors – getter and setter functions – with support for callbacks and nested observable objects. Can be used to create reactive data objects (state) for more complex UI functionality. Kinda production ready, but you should probably use Redux.
 
   ###### *Tagged: accessors, native, reactive, state, vanilla js* – Author: @estrattonbailey
+  
+# M
+
+- **[micro-jsonp](https://github.com/estrattonbailey/micro-jsonp)** - JSONp
+
+  A hyper-minimal standalone jsonp implementation in ES6.
+
+  ###### *Tagged: jsonp, form submission, mailchimp, ajax* – Author: @estrattonbailey
   
 # N
 
@@ -59,6 +73,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   ###### *Tagged: vanilla js, waypoints, scroll, resize* – Author: @estrattonbailey
   
+- **[operator.js](https://github.com/estrattonbailey/operator.js)** - AJAX your site
+
+  A minimal, configurable page AJAX and routing solution.
+
+  ###### *Tagged: ajax, routing, page transitions* – Author: @estrattonbailey
+  
 # P
 
 - **[Promo Bar (gist)](https://gist.github.com/estrattonbailey/163520be7b8297d8f45be44f49f54d0a)** - hello bar
@@ -67,13 +87,6 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   ###### *Tagged: promo bar, vanilla js* – Author: @estrattonbailey
   
-# U
-
-- **[up-down](https://github.com/estrattonbailey/up-down)** - ES6 quantity selector
-
-  A quantity selector in ES6.
-
-  ###### *Tagged: counter, accessors, javascript, ES6* – Author: @estrattonbailey
 
 # S
 
@@ -100,6 +113,22 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   Generates form HTML, sends and receives shipping rates for Shopify themes
   
   ###### *Tagged: Shopify, cart, vanilla js, shipping, forms* - Author @maxrolon
+
+# T
+
+- **[tarry.js](https://github.com/estrattonbailey/tarry.js)** - sequence functions
+
+  A really tiny sequencing library with support for delays.
+
+  ###### *Tagged: sequence, delay, setTimeout* – Author: @estrattonbailey
+
+# U
+
+- **[up-down](https://github.com/estrattonbailey/up-down)** - ES6 quantity selector
+
+  A quantity selector in ES6.
+
+  ###### *Tagged: counter, accessors, javascript, ES6* – Author: @estrattonbailey
 
   
   
