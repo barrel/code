@@ -130,6 +130,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   
   ###### *Tagged: Shopify, cart, vanilla js, shipping, forms* - Author @maxrolon
 
+- **[Sub Nav](https://gist.github.com/maxrolon/c7515c9d540068ecb6b5e7aa00b2d72d)** - Simple Anchor Nav
+   
+  Handles the simple challenge of having a submenu of anchor links
+
+  ###### *Tagged: WIP, UI, Sticky Nav, ES6, vanilla js, Waypoints, Anchors* - Author @maxrolon
+
 # T
 
 - **[tarry.js](https://github.com/estrattonbailey/tarry.js)** - sequence functions
