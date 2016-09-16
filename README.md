@@ -26,6 +26,14 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   A simple, unopinionated form submission utility library. Configure custom validation for individual fields and easily handle success and error states. 2.39kb gzipped.
 
   ###### *Tagged: ajax, form, submit, validation* – Author: @estrattonbailey
+  
+# E
+
+- **[evx](https://github.com/estrattonbailey/evx)** - manage your bindings
+
+  Route-managed client-side binding controller in ES6.
+
+  ###### *Tagged: bindings, events, routing, SPAs* – Author: @estrattonbailey
 
 # F
 
