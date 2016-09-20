@@ -97,7 +97,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
 # R
 
-- **[RAFScroll](https://github.com/maxrolon/raf-scroll.js)** - Optimized scroll event dispatcher
+- **[raf-scroll.js](https://github.com/maxrolon/raf-scroll.js)** - Optimized scroll event dispatcher
 
   Utilize animation frames to trigger scroll callbacks in the appropriate render pipeline location of each frame.
 
@@ -154,7 +154,7 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
 # V
 
-- **[Scroll Video](https://github.com/maxrolon/video-in-out.js)** - Scroll to video
+- **[video-in-out.js](https://github.com/maxrolon/video-in-out.js)** - Scroll to video
 
   Automate the play and pause of videos based on scroll 
 
