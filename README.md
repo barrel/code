@@ -29,12 +29,6 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   
 # E
 
-- **[evx](https://github.com/estrattonbailey/evx)** - manage your bindings
-
-  Route-managed client-side binding controller in ES6.
-
-  ###### *Tagged: bindings, events, routing, SPAs* – Author: @estrattonbailey
-
 # F
 
 - **[Frame](https://github.com/estrattonbailey/frame)** - sandbox generator
@@ -51,6 +45,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   ###### *Tagged: accessors, native, reactive, state, vanilla js* – Author: @estrattonbailey
   
+- **[loop.js](https://github.com/estrattonbailey/loop.js)** - event emitter
+
+  A handy little event emitter for integration with a library.
+
+  ###### *Tagged: emitter, events* – Author: @estrattonbailey
+  
 # M
 
 - **[micro-jsonp](https://github.com/estrattonbailey/micro-jsonp)** - JSONp
@@ -58,6 +58,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   A hyper-minimal standalone jsonp implementation in ES6.
 
   ###### *Tagged: jsonp, form submission, mailchimp, ajax* – Author: @estrattonbailey
+  
+- **[micromanager](https://github.com/estrattonbailey/micromanager)** - manage your bindings
+
+  Route-managed client-side binding controller in ES6.
+
+  ###### *Tagged: bindings, events, routing, SPAs* – Author: @estrattonbailey
   
 # N
 
@@ -94,6 +100,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   A starting point for a promo bar library. TODO: needs corresponding markup and styles.
 
   ###### *Tagged: promo bar, vanilla js* – Author: @estrattonbailey
+  
+- **[putz](https://github.com/estrattonbailey/putz)** - progress bar
+
+  A tiny progress bar library for AJAX and SPAs in ES6.
+
+  ###### *Tagged: progress bar, loading bar, ajax* – Author: @estrattonbailey
 
 # R
 
@@ -153,6 +165,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   ###### *Tagged: counter, accessors, javascript, ES6* – Author: @estrattonbailey
 
 # V
+
+- **[valencia](https://github.com/estrattonbailey/valencia)** - instagram
+
+  A hyper-minimal wrapper to fetch Instagram posts from an authenticated user.
+
+  ###### *Tagged: instagram* – Author: @estrattonbailey
 
 - **[video-in-out.js](https://github.com/maxrolon/video-in-out.js)** - Scroll to video
 
