@@ -1,9 +1,7 @@
 # Code Resources
-The intent of this repo is to serve as a searchable index of code snippets, libraries, and examples. These can come from anyone on the team, and shouldn't be limited to what we've written for clients. If you wrote something cool and think others should use it, please share it here!
+The purpose of this doc is to share useful libraries, snippets, and ideas that the Barrel dev team has either created or collaborated on.
 
-Additionally, these projects do not need to be complete or production ready. This can and should be a place to store WIPs, ideas, and get feedback.
-
-Check out the CONTRIBUTING.md for more info on what to post here.
+Additionally, these repos are not *necessarily* complete or production ready, but most probably are. If you want to know more about stability, or want to contribute, reach out to an author via Issues for that repo!
 
 * * *
 
