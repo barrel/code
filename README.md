@@ -87,9 +87,9 @@ Check out the CONTRIBUTING.md for more info on what to post here.
 
   ###### *Tagged: vanilla js, waypoints, scroll, resize* – Author: @estrattonbailey
   
-- **[operator.js](https://github.com/estrattonbailey/operator.js)** - AJAX your site
+- **[operator.js](https://github.com/estrattonbailey/operator.js)** - AJAXify your site
 
-  A minimal, configurable page AJAX and routing solution.
+  An AJAX + routing library that transforms a normal site into a Single Page Application (SPA).
 
   ###### *Tagged: ajax, routing, page transitions* – Author: @estrattonbailey
   
@@ -106,6 +106,12 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   A tiny progress bar library for AJAX and SPAs in ES6.
 
   ###### *Tagged: progress bar, loading bar, ajax* – Author: @estrattonbailey
+  
+- **[paralless](https://github.com/the-couch/paralless)** - hyper-minimal parallax
+
+  Simple parallax powered by CSS3 transitions.
+
+  ###### *Tagged: parallax* – Author: [@iamkevingreen](https://github.com/iamkevingreen)
 
 # R
 
@@ -147,6 +153,24 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   Handles the simple challenge of having a submenu of anchor links
 
   ###### *Tagged: WIP, UI, Sticky Nav, ES6, vanilla js, Waypoints, Anchors* - Author @maxrolon
+  
+- **[srraf](https://github.com/estrattonbailey/srraf)** - scroll/resize handling
+   
+  Better scroll and resize listeners using requestAnimationFrame.
+
+  ###### *Tagged: scroll, resize, event management* - Author @estrattonbailey
+  
+- **[scroll-restoration](https://github.com/estrattonbailey/scroll-restoration)** - scroll managment
+   
+  A tiny scroll management library using native DOM APIs.
+
+  ###### *Tagged: scroll, history state* - Author @estrattonbailey
+  
+- **[svel](https://github.com/estrattonbailey/svel)** - scroll managment
+   
+  Calculate velocity over an interval for scroll or resize events.
+
+  ###### *Tagged: scroll, scroll speed* - Author [@estrattonbailey](https://github.com/estrattonbailey)
 
 # T
 
@@ -177,5 +201,3 @@ Check out the CONTRIBUTING.md for more info on what to post here.
   Automate the play and pause of videos based on scroll 
 
   ###### *Tagged: video, javascript, ES6* – Author: @maxrolon
-  
-  
