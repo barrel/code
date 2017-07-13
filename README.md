@@ -50,6 +50,12 @@ Additionally, these repos are not *necessarily* complete or production ready, bu
   ###### *Tagged: emitter, events* – Author: [@estrattonbailey](https://github.com/estrattonbailey)
   
 # M
+  
+- **[acf-mapbox-geojson-field](https://github.com/barrel/acf-mapbox-geojson-field)** - ACF Mapbox field WP plugin
+
+  WordPress plugin which creates an ACF field type of a Mapbox map and saves searched location data.
+
+  ###### *Tagged: wordpress, maps, acf* – Author: [@bengodfrey](https://github.com/bengodfrey)
 
 - **[micro-jsonp](https://github.com/estrattonbailey/micro-jsonp)** - JSONp
 
